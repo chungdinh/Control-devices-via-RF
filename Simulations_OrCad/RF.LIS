@@ -1,0 +1,34 @@
+AutoECO Report
+FILE-A: E:\SHOP CHIPKOOL\MACH THU PHAT RF315\SCHEMATIC RF + CD4013\RF - CD4013.MAX
+FILE-B: E:\SHOP CHIPKOOL\MACH THU PHAT RF315\SCHEMATIC RF + CD4013\RF - CD4013.MNL
+If "*EOF*" immediately follows, no changes were made
+Deleting D35.1 from net I1
+Adding D12.1 to net I1
+Deleting D16.1 from net I2
+Adding D13.1 to net I2
+Deleting D17.1 from net I3
+Adding D14.1 to net I3
+Deleting D18.1 from net I4
+Adding D15.1 to net I4
+Deleting Q10.2 from net VCC
+Deleting Q7.2 from net VCC
+Deleting Q8.2 from net VCC
+Deleting Q9.2 from net VCC
+Deleting component Q10
+Deleting component Q9
+Deleting component Q8
+Deleting component Q7
+Deleting component D35
+Deleting component D18
+Deleting component D17
+Deleting component D16
+Deleting net N824230
+Deleting net N823970
+Deleting net N823710
+Deleting net N823450
+Deleting net IN4
+Deleting net IN3
+Deleting net IN2
+Deleting net IN1
+*EOF*
+No errors found

@@ -1,0 +1,19 @@
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+ERROR:  [DRC0004]  Possible pin type conflict U3,VO Output Connected to Power
+                    SCHEMATIC1, PAGE1  (121.16, 191.52) 
+
+Checking for Unconnected Nets
+WARNING:  [DRC0007]  Net has no driving source N49542
+                    SCHEMATIC1, PAGE1  (46.23, 150.88) 
+WARNING:  [DRC0006]  Net has fewer than two connections N49542
+                    SCHEMATIC1, PAGE1  (46.23, 150.88) 
+
+Checking for Invalid References
+
+Checking for Duplicate References

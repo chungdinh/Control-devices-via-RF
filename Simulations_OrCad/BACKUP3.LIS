@@ -1,0 +1,62 @@
+AutoECO Report
+FILE-A: C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\BACKUP3.MAX
+FILE-B: C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\SWEEP3.MAX
+If "*EOF*" immediately follows, no changes were made
+Padstack TO.llb_pad26_1_1_1_1 renamed to TO.LLB_PAD26_1_1_1_1
+Padstack TO.llb_pad6_1_2_1_1 renamed to TO.LLB_PAD6_1_2_1_1
+Padstack TM_CYLND.llb_pad3_2_1_1 renamed to TM_CYLND.LLB_PAD3_2_1_1
+Padstack TM_CYLND.llb_pad4_2_1_1 renamed to TM_CYLND.LLB_PAD4_2_1_1
+Padstack TO.llb_pad66_1_1 renamed to TO.LLB_PAD66_1_1
+Padstack TO.llb_pad67_1_1 renamed to TO.LLB_PAD67_1_1
+Padstack TO.llb_hole5_1 renamed to TO.LLB_HOLE5_1
+Padstack TM_CYLND.llb_pad1_3_1_1_1 renamed to TM_CYLND.LLB_PAD1_3_1_1_1
+Padstack TM_CYLND.llb_pad2_3_1_1 renamed to TM_CYLND.LLB_PAD2_3_1_1
+Padstack DIP100T.llb_pad1_1_1_1_1_1_1 renamed to DIP100T.LLB_PAD1_1_1_1_1_1_1
+Padstack DIP100T.llb_pad2_1_1_1_1_1 renamed to DIP100T.LLB_PAD2_1_1_1_1_1
+Padstack TM_RAD.llb_pad2_1_1_1_1_1_1 renamed to TM_RAD.LLB_PAD2_1_1_1_1_1_1
+Padstack TM_CYLND.llb_pad2_1_1_1_1 renamed to TM_CYLND.LLB_PAD2_1_1_1_1
+Padstack TM_CYLND.llb_pad3_2_1_2_1_1_1 renamed to TM_CYLND.LLB_PAD3_2_1_2_1_1_1
+Padstack TM_CYLND.llb_pad4_2_1_2_1_1 renamed to TM_CYLND.LLB_PAD4_2_1_2_1_1
+Padstack TM_DIODE.llb_pad29_1_2_1_1 renamed to TM_DIODE.LLB_PAD29_1_2_1_1
+Padstack TM_DIODE.llb_pad30_1_2_1_1 renamed to TM_DIODE.LLB_PAD30_1_2_1_1
+Padstack pad22_1_1_1_1_1 renamed to PAD22_1_1_1_1_1
+Padstack pad23_1_1_1_1_1 renamed to PAD23_1_1_1_1_1
+Net N823970 renamed to IN3
+Net I3 renamed to N823970
+Net I4 renamed to N824230
+Deleting D17.1 from net N823970
+Deleting J2.3 from net N823970
+Adding Q9.1 to net N823970
+Adding D17.2 to net N823970
+Deleting D18.1 from net N824230
+Deleting J2.4 from net N824230
+Adding Q10.1 to net N824230
+Adding D18.2 to net N824230
+Deleting Q9.1 from net IN3
+Deleting D17.2 from net IN3
+Adding D14.1 to net IN3
+Adding Q9.3 to net IN3
+Adding J2.3 to net I3
+Adding D17.1 to net I3
+Adding J2.4 to net I4
+Adding D18.1 to net I4
+Adding U5.5 to net N06113
+Adding U5.2 to net N06113
+Adding R33.2 to net N09883
+Adding D32.1 to net N09883
+Adding LS2.4 to net N81445
+Adding J5.2 to net N81445
+Adding LS3.4 to net N81485
+Adding J6.2 to net N81485
+Adding R17.1 to net N094011
+Adding D5.2 to net N094011
+Adding Q8.1 to net N823710
+Adding D16.2 to net N823710
+Adding U4.13 to net OUT2
+Adding D6.1 to net OUT2
+Adding U5.13 to net OUT4
+Adding D4.1 to net OUT4
+Adding D12.1 to net IN1
+Adding Q7.3 to net IN1
+*EOF*
+No errors found

@@ -1,0 +1,1345 @@
+Thu Aug 14 01:34:54 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 01:34:54 Saved as file BACKUP1.MAX
+Thu Aug 14 01:34:54 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 01:34:54 UserDiv from Layout.INI for AutoECO: 60
+Thu Aug 14 01:34:54 Loaded file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 01:34:54 Loaded file E:\HOC TAP TONG HOP\HOC ORCAD\THU VIEN FULL ORCAD\LIB - ATMEGA 128\ATMEGA128.LLB
+Thu Aug 14 01:34:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\CAPITOR.LLB
+Thu Aug 14 01:34:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\CHIP DAN SMD.LLB
+Thu Aug 14 01:34:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\EMPTY.LLB
+Thu Aug 14 01:34:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\EX_GUI.LLB
+Thu Aug 14 01:34:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\METRIC.LLB
+Thu Aug 14 01:34:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\PADSTACK.LLB
+Thu Aug 14 01:34:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN LAYOUT BETA.LLB
+Thu Aug 14 01:34:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN.LLB
+Thu Aug 14 01:34:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THUVIEN OR1.LLB
+Thu Aug 14 01:34:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THUVIEN OR2.LLB
+Thu Aug 14 01:34:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\TRANSITROR.LLB
+Thu Aug 14 01:34:54 Loaded file C:\Program Files\Orcad\Layout\library\BCON100T.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\BCON156T.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\BGA.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\CLCC.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\DCON050T.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\DCON085T.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\DIMM050F.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\DIMM050T.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\DIN.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\DIP100B.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\DIP100T.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\DSUBT.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\DSUBT_HD.LLB
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\ECON100T.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\FBUS.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\ISA.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\JUMPER.LLB
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\LAYOUT.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\LCON100T.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\PC104.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\PCI.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\PCON100T.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\PCON156T.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\PGA.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\PLCC.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\QUAD.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\QUADB.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\RELAY.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\RF.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\SBUS.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\SIMM050F.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\SIMM050T.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\SIMM100F.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\SIMM100T.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\SIP.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\SM.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\SOG.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\SOJ.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\STIFF.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\TELE.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\TM_AXIAL.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\TM_CAP_P.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\TM_CYLND.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\TM_DIODE.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\TM_DISC.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\TM_RAD.llb
+Thu Aug 14 01:34:55 Loaded file C:\Program Files\Orcad\Layout\library\TO.llb
+Thu Aug 14 01:34:56 Loaded file C:\Program Files\Orcad\Layout\library\TRAINING.LLB
+Thu Aug 14 01:34:56 Loaded file C:\Program Files\Orcad\Layout\library\VRES.llb
+Thu Aug 14 01:34:56 Loaded file C:\Program Files\Orcad\Layout\library\WCON100T.llb
+Thu Aug 14 01:34:56 Loaded file C:\Program Files\Orcad\Layout\library\XT.llb
+Thu Aug 14 01:34:56 Loaded file C:\Program Files\Orcad\Layout\library\ZIGZAG.llb
+Thu Aug 14 01:34:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN LAYOUT BETA.LLB
+Thu Aug 14 01:34:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THUVIEN OR1.LLB
+Thu Aug 14 01:34:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN LAYOUT BETA.LLB
+Thu Aug 14 01:34:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN LAYOUT BETA.LLB
+Thu Aug 14 01:34:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN LAYOUT BETA.LLB
+Thu Aug 14 01:34:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN LAYOUT BETA.LLB
+Thu Aug 14 01:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Thu Aug 14 01:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Thu Aug 14 01:35:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\CAPITOR.LLB
+Thu Aug 14 01:35:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\EMPTY.LLB
+Thu Aug 14 01:35:23 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN LAYOUT BETA.LLB
+Thu Aug 14 01:35:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Thu Aug 14 01:35:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN LAYOUT BETA.LLB
+Thu Aug 14 01:35:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN LAYOUT BETA.LLB
+Thu Aug 14 01:35:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN LAYOUT BETA.LLB
+Thu Aug 14 01:35:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN LAYOUT BETA.LLB
+Thu Aug 14 01:35:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN LAYOUT BETA.LLB
+Thu Aug 14 01:35:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN LAYOUT BETA.LLB
+Thu Aug 14 01:35:27 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 01:35:27 Loaded file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 01:35:42 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 11:34:30 Saved as file BACKUP1.MAX
+Thu Aug 14 11:44:28 Saved as file BACKUP1.MAX
+Thu Aug 14 11:46:58 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:46:58 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:46:59 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:46:59 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:47:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\CHIP DAN SMD.LLB
+Thu Aug 14 11:47:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\CHIP DAN SMD.LLB
+Thu Aug 14 11:47:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN LAYOUT BETA.LLB
+Thu Aug 14 11:47:08 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:47:09 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:47:15 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:47:15 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:47:15 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:47:15 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:47:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\EMPTY.LLB
+Thu Aug 14 11:47:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN LAYOUT BETA.LLB
+Thu Aug 14 11:47:23 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:51:17 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 11:52:06 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:52:06 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:52:06 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:52:06 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:52:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\EMPTY.LLB
+Thu Aug 14 11:52:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN LAYOUT BETA.LLB
+Thu Aug 14 11:52:15 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:52:25 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:52:25 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:52:25 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:52:25 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:52:26 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:52:35 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:52:35 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:52:35 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:52:35 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:52:37 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\CHIP DAN SMD.LLB
+Thu Aug 14 11:52:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN LAYOUT BETA.LLB
+Thu Aug 14 11:52:39 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:52:43 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:54:17 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:54:17 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:54:17 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:54:17 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:54:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\CHIP DAN SMD.LLB
+Thu Aug 14 11:54:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN LAYOUT BETA.LLB
+Thu Aug 14 11:54:24 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:54:26 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:54:58 Saved as file BACKUP1.MAX
+Thu Aug 14 11:55:01 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:55:01 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:55:01 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:55:01 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:55:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\CHIP DAN SMD.LLB
+Thu Aug 14 11:55:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\EMPTY.LLB
+Thu Aug 14 11:55:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN LAYOUT BETA.LLB
+Thu Aug 14 11:55:05 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 11:57:07 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 11:57:28 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 12:04:58 Saved as file BACKUP1.MAX
+Thu Aug 14 12:13:30 Saved as file BACKUP1.MAX
+Thu Aug 14 12:13:30 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 12:13:32 UserDiv from Layout.INI for AutoECO: 60
+Thu Aug 14 12:13:32 Loaded file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 12:13:32 Loaded file E:\HOC TAP TONG HOP\HOC ORCAD\THU VIEN FULL ORCAD\LIB - ATMEGA 128\ATMEGA128.LLB
+Thu Aug 14 12:13:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\CAPITOR.LLB
+Thu Aug 14 12:13:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\CHIP DAN SMD.LLB
+Thu Aug 14 12:13:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\EMPTY.LLB
+Thu Aug 14 12:13:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\EX_GUI.LLB
+Thu Aug 14 12:13:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\METRIC.LLB
+Thu Aug 14 12:13:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\PADSTACK.LLB
+Thu Aug 14 12:13:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN LAYOUT BETA.LLB
+Thu Aug 14 12:13:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN.LLB
+Thu Aug 14 12:13:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THUVIEN OR1.LLB
+Thu Aug 14 12:13:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THUVIEN OR2.LLB
+Thu Aug 14 12:13:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\TRANSITROR.LLB
+Thu Aug 14 12:13:33 Loaded file C:\Program Files\Orcad\Layout\library\BCON100T.llb
+Thu Aug 14 12:13:33 Loaded file C:\Program Files\Orcad\Layout\library\BCON156T.llb
+Thu Aug 14 12:13:33 Loaded file C:\Program Files\Orcad\Layout\library\BGA.llb
+Thu Aug 14 12:13:33 Loaded file C:\Program Files\Orcad\Layout\library\CLCC.llb
+Thu Aug 14 12:13:33 Loaded file C:\Program Files\Orcad\Layout\library\DCON050T.llb
+Thu Aug 14 12:13:33 Loaded file C:\Program Files\Orcad\Layout\library\DCON085T.llb
+Thu Aug 14 12:13:33 Loaded file C:\Program Files\Orcad\Layout\library\DIMM050F.llb
+Thu Aug 14 12:13:33 Loaded file C:\Program Files\Orcad\Layout\library\DIMM050T.llb
+Thu Aug 14 12:13:33 Loaded file C:\Program Files\Orcad\Layout\library\DIN.llb
+Thu Aug 14 12:13:33 Loaded file C:\Program Files\Orcad\Layout\library\DIP100B.llb
+Thu Aug 14 12:13:33 Loaded file C:\Program Files\Orcad\Layout\library\DIP100T.llb
+Thu Aug 14 12:13:33 Loaded file C:\Program Files\Orcad\Layout\library\DSUBT.llb
+Thu Aug 14 12:13:33 Loaded file C:\Program Files\Orcad\Layout\library\DSUBT_HD.LLB
+Thu Aug 14 12:13:33 Loaded file C:\Program Files\Orcad\Layout\library\ECON100T.llb
+Thu Aug 14 12:13:33 Loaded file C:\Program Files\Orcad\Layout\library\FBUS.llb
+Thu Aug 14 12:13:33 Loaded file C:\Program Files\Orcad\Layout\library\ISA.llb
+Thu Aug 14 12:13:33 Loaded file C:\Program Files\Orcad\Layout\library\JUMPER.LLB
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\LAYOUT.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\LCON100T.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\PC104.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\PCI.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\PCON100T.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\PCON156T.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\PGA.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\PLCC.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\QUAD.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\QUADB.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\RELAY.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\RF.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\SBUS.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\SIMM050F.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\SIMM050T.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\SIMM100F.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\SIMM100T.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\SIP.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\SM.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\SOG.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\SOJ.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\STIFF.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\TELE.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\TM_AXIAL.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\TM_CAP_P.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\TM_CYLND.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\TM_DIODE.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\TM_DISC.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\TM_RAD.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\TO.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\TRAINING.LLB
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\VRES.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\WCON100T.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\XT.llb
+Thu Aug 14 12:13:34 Loaded file C:\Program Files\Orcad\Layout\library\ZIGZAG.llb
+Thu Aug 14 12:13:34 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 12:13:35 Loaded file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 12:15:29 Saved as file BACKUP1.MAX
+Thu Aug 14 12:19:50 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 12:19:50 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 12:19:50 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 12:19:50 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 12:19:51 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\CHIP DAN SMD.LLB
+Thu Aug 14 12:19:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN LAYOUT BETA.LLB
+Thu Aug 14 12:20:03 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 12:20:14 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Thu Aug 14 12:26:00 Saved as file BACKUP1.MAX
+Thu Aug 14 12:26:45 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 12:27:19 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 12:27:26 Saved as file BACKUP1.MAX
+Thu Aug 14 12:27:27 Saved as file BACKUP1.MAX
+Thu Aug 14 12:27:27 Saved as file BACKUP1.MAX
+Thu Aug 14 12:27:28 Saved as file BACKUP1.MAX
+Thu Aug 14 12:27:29 Saved as file BACKUP1.MAX
+Thu Aug 14 12:27:29 Saved as file BACKUP1.MAX
+Thu Aug 14 12:27:30 Saved as file BACKUP1.MAX
+Thu Aug 14 12:27:31 Saved as file BACKUP1.MAX
+Thu Aug 14 12:27:31 Saved as file BACKUP1.MAX
+Thu Aug 14 12:27:31 Routed 13 connections in 6 seconds.
+Thu Aug 14 12:27:31 Total is now 13 out of 132 (9%).
+Thu Aug 14 12:27:31 Saved as file SWEEP1.MAX
+Thu Aug 14 12:27:40 Saved as file BACKUP1.MAX
+Thu Aug 14 12:27:41 Saved as file BACKUP1.MAX
+Thu Aug 14 12:27:41 Saved as file BACKUP1.MAX
+Thu Aug 14 12:27:47 Saved as file BACKUP1.MAX
+Thu Aug 14 12:27:48 Saved as file BACKUP1.MAX
+Thu Aug 14 12:27:48 Saved as file BACKUP1.MAX
+Thu Aug 14 12:27:49 Saved as file BACKUP1.MAX
+Thu Aug 14 12:27:49 Saved as file BACKUP1.MAX
+Thu Aug 14 12:27:50 Saved as file BACKUP1.MAX
+Thu Aug 14 12:27:50 Routed 130 connections in 18 seconds.
+Thu Aug 14 12:27:50 Total is now 112 out of 132 (84%).
+Thu Aug 14 12:27:50 Saved as file SWEEP2.MAX
+Thu Aug 14 12:28:47 Routed 4 connections in 57 seconds.
+Thu Aug 14 12:28:47 Total is now 116 out of 132 (87%).
+Thu Aug 14 12:28:47 Saved as file SWEEP3.MAX
+Thu Aug 14 12:31:50 Routed 1 connections in  3.0 minutes.
+Thu Aug 14 12:31:50 Total is now 117 out of 132 (88%).
+Thu Aug 14 12:31:50 Saved as file SWEEP4.MAX
+Thu Aug 14 12:35:24 No new connections routed.
+Thu Aug 14 12:35:24 Total is now 117 out of 132 (88%).
+Thu Aug 14 12:35:24 Saved as file SWEEP5.MAX
+Thu Aug 14 12:45:29 Saved as file BACKUP1.MAX
+Thu Aug 14 12:55:30 Saved as file BACKUP1.MAX
+Thu Aug 14 13:02:43 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 13:02:48 Saved as file BACKUP1.MAX
+Thu Aug 14 13:02:49 Saved as file BACKUP1.MAX
+Thu Aug 14 13:02:49 Saved as file BACKUP1.MAX
+Thu Aug 14 13:02:50 Saved as file BACKUP1.MAX
+Thu Aug 14 13:02:51 Saved as file BACKUP1.MAX
+Thu Aug 14 13:02:51 Saved as file BACKUP1.MAX
+Thu Aug 14 13:02:52 Saved as file BACKUP1.MAX
+Thu Aug 14 13:02:53 Saved as file BACKUP1.MAX
+Thu Aug 14 13:02:53 Saved as file BACKUP1.MAX
+Thu Aug 14 13:02:53 Routed 7 connections in 6 seconds.
+Thu Aug 14 13:02:53 Total is now 7 out of 132 (5%).
+Thu Aug 14 13:02:53 Saved as file SWEEP1.MAX
+Thu Aug 14 13:03:02 Saved as file BACKUP1.MAX
+Thu Aug 14 13:03:04 Saved as file BACKUP1.MAX
+Thu Aug 14 13:03:04 Saved as file BACKUP1.MAX
+Thu Aug 14 13:03:06 Saved as file BACKUP1.MAX
+Thu Aug 14 13:03:07 Saved as file BACKUP1.MAX
+Thu Aug 14 13:03:07 Saved as file BACKUP1.MAX
+Thu Aug 14 13:03:08 Saved as file BACKUP1.MAX
+Thu Aug 14 13:03:09 Saved as file BACKUP1.MAX
+Thu Aug 14 13:03:09 Saved as file BACKUP1.MAX
+Thu Aug 14 13:03:09 Routed 118 connections in 16 seconds.
+Thu Aug 14 13:03:09 Total is now 116 out of 132 (87%).
+Thu Aug 14 13:03:09 Saved as file SWEEP2.MAX
+Thu Aug 14 13:03:54 No new connections routed.
+Thu Aug 14 13:03:54 Total is now 116 out of 132 (87%).
+Thu Aug 14 13:03:54 Saved as file SWEEP3.MAX
+Thu Aug 14 13:05:30 Saved as file BACKUP1.MAX
+Thu Aug 14 13:06:29 Routed 1 connections in  2.6 minutes.
+Thu Aug 14 13:06:29 Total is now 117 out of 132 (88%).
+Thu Aug 14 13:06:29 Saved as file SWEEP4.MAX
+Thu Aug 14 13:08:58 No new connections routed.
+Thu Aug 14 13:08:58 Total is now 117 out of 132 (88%).
+Thu Aug 14 13:08:58 Saved as file SWEEP5.MAX
+Thu Aug 14 13:15:30 Saved as file BACKUP1.MAX
+Thu Aug 14 13:25:31 Saved as file BACKUP1.MAX
+Thu Aug 14 13:35:31 Saved as file BACKUP1.MAX
+Thu Aug 14 13:45:31 Saved as file BACKUP1.MAX
+Thu Aug 14 13:49:51 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 13:55:32 Saved as file BACKUP1.MAX
+Thu Aug 14 13:58:28 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 13:59:56 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 14:00:49 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 14:01:43 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 14:03:42 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 14:03:55 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 14:04:56 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 14:05:32 Saved as file BACKUP1.MAX
+Thu Aug 14 14:06:35 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Thu Aug 14 14:07:27 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Fri Aug 15 11:16:24 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Fri Aug 15 11:23:58 Saved as file BACKUP1.MAX
+Fri Aug 15 11:24:09 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Fri Aug 15 11:29:31 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Fri Aug 15 11:34:58 Saved as file BACKUP1.MAX
+Fri Aug 15 11:38:05 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Fri Aug 15 11:39:35 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Fri Aug 15 11:42:55 Saved as file BACKUP1.MAX
+Fri Aug 15 11:42:55 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Fri Aug 15 11:42:55 UserDiv from Layout.INI for AutoECO: 60
+Fri Aug 15 11:42:55 Loaded file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Fri Aug 15 11:42:55 Loaded file E:\HOC TAP TONG HOP\HOC ORCAD\THU VIEN FULL ORCAD\LIB - ATMEGA 128\ATMEGA128.LLB
+Fri Aug 15 11:42:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\CAPITOR.LLB
+Fri Aug 15 11:42:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\CHIP DAN SMD.LLB
+Fri Aug 15 11:42:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\EMPTY.LLB
+Fri Aug 15 11:42:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\EX_GUI.LLB
+Fri Aug 15 11:42:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\METRIC.LLB
+Fri Aug 15 11:42:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\PADSTACK.LLB
+Fri Aug 15 11:42:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN LAYOUT BETA.LLB
+Fri Aug 15 11:42:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN.LLB
+Fri Aug 15 11:42:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THUVIEN OR1.LLB
+Fri Aug 15 11:42:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THUVIEN OR2.LLB
+Fri Aug 15 11:42:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\TRANSITROR.LLB
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\BCON100T.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\BCON156T.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\BGA.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\CLCC.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\DCON050T.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\DCON085T.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\DIMM050F.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\DIMM050T.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\DIN.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\DIP100B.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\DIP100T.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\DSUBT.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\DSUBT_HD.LLB
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\ECON100T.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\FBUS.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\ISA.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\JUMPER.LLB
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\LAYOUT.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\LCON100T.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\PC104.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\PCI.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\PCON100T.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\PCON156T.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\PGA.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\PLCC.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\QUAD.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\QUADB.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\RELAY.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\RF.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\SBUS.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\SIMM050F.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\SIMM050T.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\SIMM100F.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\SIMM100T.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\SIP.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\SM.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\SOG.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\SOJ.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\STIFF.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\TELE.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\TM_AXIAL.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\TM_CAP_P.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\TM_CYLND.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\TM_DIODE.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\TM_DISC.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\TM_RAD.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\TO.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\TRAINING.LLB
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\VRES.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\WCON100T.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\XT.llb
+Fri Aug 15 11:42:56 Loaded file C:\Program Files\Orcad\Layout\library\ZIGZAG.llb
+Fri Aug 15 11:42:56 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Fri Aug 15 11:42:56 Loaded file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Fri Aug 15 11:45:28 Saved as file BACKUP1.MAX
+Fri Aug 15 11:48:43 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Fri Aug 15 11:49:45 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Fri Aug 15 11:51:44 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Fri Aug 15 11:51:49 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Fri Aug 15 11:54:41 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Fri Aug 15 11:55:29 Saved as file BACKUP1.MAX
+Fri Aug 15 11:56:35 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Fri Aug 15 11:57:47 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Fri Aug 15 11:59:58 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Fri Aug 15 12:05:29 Saved as file BACKUP1.MAX
+Fri Aug 15 12:15:29 Saved as file BACKUP1.MAX
+Fri Aug 15 12:25:30 Saved as file BACKUP1.MAX
+Fri Aug 15 12:27:39 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Fri Aug 15 12:28:39 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Fri Aug 15 12:28:54 Merge file: Starting (copy all comps)
+Fri Aug 15 12:28:54 Merge file: Loading merge file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Fri Aug 15 12:28:54 Merge file: Component C4 copied and renamed to C4000
+Fri Aug 15 12:28:54 Merge file: Component C7 copied and renamed to C7000
+Fri Aug 15 12:28:54 Merge file: Component C8 copied and renamed to C8000
+Fri Aug 15 12:28:54 Merge file: Component C9 copied and renamed to C9000
+Fri Aug 15 12:28:54 Merge file: Component C10 copied and renamed to C10000
+Fri Aug 15 12:28:54 Merge file: Component C16 copied and renamed to C16000
+Fri Aug 15 12:28:54 Merge file: Component C17 copied and renamed to C17000
+Fri Aug 15 12:28:54 Merge file: Component C18 copied and renamed to C18000
+Fri Aug 15 12:28:54 Merge file: Component C19 copied and renamed to C19000
+Fri Aug 15 12:28:54 Merge file: Component D4 copied and renamed to D4000
+Fri Aug 15 12:28:54 Merge file: Component D5 copied and renamed to D5000
+Fri Aug 15 12:28:54 Merge file: Component D6 copied and renamed to D6000
+Fri Aug 15 12:28:54 Merge file: Component D7 copied and renamed to D7000
+Fri Aug 15 12:28:54 Merge file: Component D8 copied and renamed to D8000
+Fri Aug 15 12:28:54 Merge file: Component D9 copied and renamed to D9000
+Fri Aug 15 12:28:54 Merge file: Component D10 copied and renamed to D10000
+Fri Aug 15 12:28:54 Merge file: Component D11 copied and renamed to D11000
+Fri Aug 15 12:28:54 Merge file: Component D12 copied and renamed to D12000
+Fri Aug 15 12:28:54 Merge file: Component D13 copied and renamed to D13000
+Fri Aug 15 12:28:54 Merge file: Component D14 copied and renamed to D14000
+Fri Aug 15 12:28:54 Merge file: Component D15 copied and renamed to D15000
+Fri Aug 15 12:28:54 Merge file: Component D16 copied and renamed to D16000
+Fri Aug 15 12:28:54 Merge file: Component D17 copied and renamed to D17000
+Fri Aug 15 12:28:54 Merge file: Component D18 copied and renamed to D18000
+Fri Aug 15 12:28:54 Merge file: Component D32 copied and renamed to D32000
+Fri Aug 15 12:28:54 Merge file: Component D33 copied and renamed to D33000
+Fri Aug 15 12:28:54 Merge file: Component D35 copied and renamed to D35000
+Fri Aug 15 12:28:54 Merge file: Component J2 copied and renamed to J2000
+Fri Aug 15 12:28:54 Merge file: Component J3 copied and renamed to J3000
+Fri Aug 15 12:28:54 Merge file: Component J4 copied and renamed to J4000
+Fri Aug 15 12:28:54 Merge file: Component J5 copied and renamed to J5000
+Fri Aug 15 12:28:54 Merge file: Component J6 copied and renamed to J6000
+Fri Aug 15 12:28:54 Merge file: Component J7 copied and renamed to J7000
+Fri Aug 15 12:28:54 Merge file: Component J8 copied and renamed to J8000
+Fri Aug 15 12:28:54 Merge file: Component LS1 copied and renamed to LS1000
+Fri Aug 15 12:28:54 Merge file: Component LS2 copied and renamed to LS2000
+Fri Aug 15 12:28:54 Merge file: Component LS3 copied and renamed to LS3000
+Fri Aug 15 12:28:54 Merge file: Component LS4 copied and renamed to LS4000
+Fri Aug 15 12:28:54 Merge file: Component Q3 copied and renamed to Q3000
+Fri Aug 15 12:28:54 Merge file: Component Q4 copied and renamed to Q4000
+Fri Aug 15 12:28:54 Merge file: Component Q5 copied and renamed to Q5000
+Fri Aug 15 12:28:54 Merge file: Component Q6 copied and renamed to Q6000
+Fri Aug 15 12:28:54 Merge file: Component Q7 copied and renamed to Q7000
+Fri Aug 15 12:28:54 Merge file: Component Q8 copied and renamed to Q8000
+Fri Aug 15 12:28:54 Merge file: Component Q9 copied and renamed to Q9000
+Fri Aug 15 12:28:54 Merge file: Component Q10 copied and renamed to Q10000
+Fri Aug 15 12:28:54 Merge file: Component R5 copied and renamed to R5000
+Fri Aug 15 12:28:54 Merge file: Component R11 copied and renamed to R11000
+Fri Aug 15 12:28:54 Merge file: Component R13 copied and renamed to R13000
+Fri Aug 15 12:28:54 Merge file: Component R14 copied and renamed to R14000
+Fri Aug 15 12:28:54 Merge file: Component R15 copied and renamed to R15000
+Fri Aug 15 12:28:54 Merge file: Component R16 copied and renamed to R16000
+Fri Aug 15 12:28:54 Merge file: Component R17 copied and renamed to R17000
+Fri Aug 15 12:28:54 Merge file: Component R18 copied and renamed to R18000
+Fri Aug 15 12:28:54 Merge file: Component R19 copied and renamed to R19000
+Fri Aug 15 12:28:54 Merge file: Component R20 copied and renamed to R20000
+Fri Aug 15 12:28:54 Merge file: Component R21 copied and renamed to R21000
+Fri Aug 15 12:28:54 Merge file: Component R22 copied and renamed to R22000
+Fri Aug 15 12:28:54 Merge file: Component R23 copied and renamed to R23000
+Fri Aug 15 12:28:54 Merge file: Component R33 copied and renamed to R33000
+Fri Aug 15 12:28:54 Merge file: Component SW1 copied and renamed to SW1000
+Fri Aug 15 12:28:54 Merge file: Component SW2 copied and renamed to SW2000
+Fri Aug 15 12:28:54 Merge file: Component SW3 copied and renamed to SW3000
+Fri Aug 15 12:28:54 Merge file: Component SW4 copied and renamed to SW4000
+Fri Aug 15 12:28:54 Merge file: Component U3 copied and renamed to U3000
+Fri Aug 15 12:28:54 Merge file: Component U4 copied and renamed to U4000
+Fri Aug 15 12:28:54 Merge file: Component U5 copied and renamed to U5000
+Fri Aug 15 12:28:54 Merge file: Component ~FV1 copied and renamed to ~FV1000
+Fri Aug 15 12:28:54 Merge file: Component ~FV2 copied and renamed to ~FV2000
+Fri Aug 15 12:28:54 Merge file: Component ~FV3 copied and renamed to ~FV3000
+Fri Aug 15 12:28:54 Merge file: Component ~FV4 copied and renamed to ~FV4000
+Fri Aug 15 12:28:54 Merge file: Net GND merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net I1 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net I2 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net I3 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net I4 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net IN1 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net IN2 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net IN3 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net IN4 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net INN1 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net INN2 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net INN3 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net INN4 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N05324 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N05389 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N05408 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N05546 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N05572 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N05987 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N06031 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N06113 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N06144 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N06509 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N09883 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N46584 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N46613 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N46655 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N46684 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N81405 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N81445 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N81485 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N81525 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N81544 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N093791 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N094011 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N094231 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N094451 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N823450 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N823710 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N823970 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net N824230 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net OUT1 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net OUT2 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net OUT3 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net OUT4 merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net VCC merged into existing net
+Fri Aug 15 12:28:54 Merge file: Net VCC_12V merged into existing net
+Fri Aug 15 12:28:54 Loaded file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013.MAX
+Fri Aug 15 12:28:54 Merge file: Complete
+Fri Aug 15 12:29:16 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\CD4013\RF - CD4013_COPY.MAX
+Sat Aug 23 11:19:21 Saved as file BACKUP1.MAX
+Sat Aug 23 11:21:28 Saved as file BACKUP1.MAX
+Sat Aug 23 11:21:28 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\SCHEMATIC RF + CD4013\RF - CD4013.MAX
+Sat Aug 23 11:21:32 UserDiv from Layout.INI for AutoECO: 60
+Sat Aug 23 11:21:32 Loaded file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\SCHEMATIC RF + CD4013\RF - CD4013.MAX
+Sat Aug 23 11:21:32 Loaded file E:\HOC TAP TONG HOP\HOC ORCAD\THU VIEN FULL ORCAD\LIB - ATMEGA 128\ATMEGA128.LLB
+Sat Aug 23 11:21:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\CAPITOR.LLB
+Sat Aug 23 11:21:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\CHIP DAN SMD.LLB
+Sat Aug 23 11:21:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\EMPTY.LLB
+Sat Aug 23 11:21:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\EX_GUI.LLB
+Sat Aug 23 11:21:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\METRIC.LLB
+Sat Aug 23 11:21:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\PADSTACK.LLB
+Sat Aug 23 11:21:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN LAYOUT BETA.LLB
+Sat Aug 23 11:21:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THU VIEN.LLB
+Sat Aug 23 11:21:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THUVIEN OR1.LLB
+Sat Aug 23 11:21:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\THUVIEN OR2.LLB
+Sat Aug 23 11:21:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\LIBRARY\TRANSITROR.LLB
+Sat Aug 23 11:21:33 Loaded file C:\Program Files\Orcad\Layout\library\BCON100T.llb
+Sat Aug 23 11:21:33 Loaded file C:\Program Files\Orcad\Layout\library\BCON156T.llb
+Sat Aug 23 11:21:33 Loaded file C:\Program Files\Orcad\Layout\library\BGA.llb
+Sat Aug 23 11:21:33 Loaded file C:\Program Files\Orcad\Layout\library\CLCC.llb
+Sat Aug 23 11:21:34 Loaded file C:\Program Files\Orcad\Layout\library\DCON050T.llb
+Sat Aug 23 11:21:34 Loaded file C:\Program Files\Orcad\Layout\library\DCON085T.llb
+Sat Aug 23 11:21:34 Loaded file C:\Program Files\Orcad\Layout\library\DIMM050F.llb
+Sat Aug 23 11:21:34 Loaded file C:\Program Files\Orcad\Layout\library\DIMM050T.llb
+Sat Aug 23 11:21:34 Loaded file C:\Program Files\Orcad\Layout\library\DIN.llb
+Sat Aug 23 11:21:34 Loaded file C:\Program Files\Orcad\Layout\library\DIP100B.llb
+Sat Aug 23 11:21:34 Loaded file C:\Program Files\Orcad\Layout\library\DIP100T.llb
+Sat Aug 23 11:21:34 Loaded file C:\Program Files\Orcad\Layout\library\DSUBT.llb
+Sat Aug 23 11:21:34 Loaded file C:\Program Files\Orcad\Layout\library\DSUBT_HD.LLB
+Sat Aug 23 11:21:34 Loaded file C:\Program Files\Orcad\Layout\library\ECON100T.llb
+Sat Aug 23 11:21:34 Loaded file C:\Program Files\Orcad\Layout\library\FBUS.llb
+Sat Aug 23 11:21:34 Loaded file C:\Program Files\Orcad\Layout\library\ISA.llb
+Sat Aug 23 11:21:34 Loaded file C:\Program Files\Orcad\Layout\library\JUMPER.LLB
+Sat Aug 23 11:21:34 Loaded file C:\Program Files\Orcad\Layout\library\LAYOUT.llb
+Sat Aug 23 11:21:34 Loaded file C:\Program Files\Orcad\Layout\library\LCON100T.llb
+Sat Aug 23 11:21:34 Loaded file C:\Program Files\Orcad\Layout\library\PC104.llb
+Sat Aug 23 11:21:34 Loaded file C:\Program Files\Orcad\Layout\library\PCI.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\PCON100T.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\PCON156T.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\PGA.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\PLCC.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\QUAD.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\QUADB.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\RELAY.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\RF.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\SBUS.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\SIMM050F.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\SIMM050T.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\SIMM100F.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\SIMM100T.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\SIP.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\SM.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\SOG.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\SOJ.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\STIFF.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\TELE.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\TM_AXIAL.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\TM_CAP_P.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\TM_CYLND.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\TM_DIODE.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\TM_DISC.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\TM_RAD.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\TO.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\TRAINING.LLB
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\VRES.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\WCON100T.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\XT.llb
+Sat Aug 23 11:21:35 Loaded file C:\Program Files\Orcad\Layout\library\ZIGZAG.llb
+Sat Aug 23 11:21:36 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\SCHEMATIC RF + CD4013\RF - CD4013.MAX
+Sat Aug 23 11:21:36 Loaded file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\SCHEMATIC RF + CD4013\RF - CD4013.MAX
+Sat Aug 23 11:29:48 Saved as file BACKUP1.MAX
+Sat Aug 23 11:30:24 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\SCHEMATIC RF + CD4013\RF - CD4013.MAX
+Sat Aug 23 11:30:49 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\SCHEMATIC RF + CD4013\RF - CD4013.MAX
+Sat Aug 23 11:36:43 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\SCHEMATIC RF + CD4013\RF - CD4013.MAX
+Sat Aug 23 11:36:55 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\SCHEMATIC RF + CD4013\RF - CD4013.MAX
+Sat Aug 23 11:38:59 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\SCHEMATIC RF + CD4013\RF - CD4013.MAX
+Sat Aug 23 11:39:08 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\SCHEMATIC RF + CD4013\RF - CD4013.MAX
+Sat Aug 23 11:39:48 Saved as file BACKUP1.MAX
+Sat Aug 23 11:40:07 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\SCHEMATIC RF + CD4013\RF - CD4013.MAX
+Sat Aug 23 11:41:09 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\SCHEMATIC RF + CD4013\RF - CD4013.MAX
+Sat Aug 23 11:41:22 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\SCHEMATIC RF + CD4013\RF - CD4013.MAX
+Sat Aug 23 11:41:51 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\SCHEMATIC RF + CD4013\RF - CD4013.MAX
+Sat Aug 23 11:42:24 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\SCHEMATIC RF + CD4013\RF - CD4013.MAX
+Sat Aug 23 11:42:51 Merge file: Starting (copy all comps)
+Sat Aug 23 11:42:51 Merge file: Loading merge file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\SCHEMATIC RF + CD4013\RF - CD4013.MAX
+Sat Aug 23 11:42:51 Merge file: Component C4 copied and renamed to C4000
+Sat Aug 23 11:42:51 Merge file: Component C7 copied and renamed to C7000
+Sat Aug 23 11:42:51 Merge file: Component C8 copied and renamed to C8000
+Sat Aug 23 11:42:51 Merge file: Component C9 copied and renamed to C9000
+Sat Aug 23 11:42:51 Merge file: Component C10 copied and renamed to C10000
+Sat Aug 23 11:42:51 Merge file: Component C16 copied and renamed to C16000
+Sat Aug 23 11:42:51 Merge file: Component C17 copied and renamed to C17000
+Sat Aug 23 11:42:51 Merge file: Component C18 copied and renamed to C18000
+Sat Aug 23 11:42:51 Merge file: Component C19 copied and renamed to C19000
+Sat Aug 23 11:42:51 Merge file: Component D4 copied and renamed to D4000
+Sat Aug 23 11:42:51 Merge file: Component D5 copied and renamed to D5000
+Sat Aug 23 11:42:51 Merge file: Component D6 copied and renamed to D6000
+Sat Aug 23 11:42:51 Merge file: Component D7 copied and renamed to D7000
+Sat Aug 23 11:42:51 Merge file: Component D8 copied and renamed to D8000
+Sat Aug 23 11:42:51 Merge file: Component D9 copied and renamed to D9000
+Sat Aug 23 11:42:51 Merge file: Component D10 copied and renamed to D10000
+Sat Aug 23 11:42:51 Merge file: Component D11 copied and renamed to D11000
+Sat Aug 23 11:42:51 Merge file: Component D12 copied and renamed to D12000
+Sat Aug 23 11:42:51 Merge file: Component D13 copied and renamed to D13000
+Sat Aug 23 11:42:51 Merge file: Component D14 copied and renamed to D14000
+Sat Aug 23 11:42:51 Merge file: Component D15 copied and renamed to D15000
+Sat Aug 23 11:42:51 Merge file: Component D32 copied and renamed to D32000
+Sat Aug 23 11:42:51 Merge file: Component D33 copied and renamed to D33000
+Sat Aug 23 11:42:51 Merge file: Component J2 copied and renamed to J2000
+Sat Aug 23 11:42:51 Merge file: Component J3 copied and renamed to J3000
+Sat Aug 23 11:42:51 Merge file: Component J4 copied and renamed to J4000
+Sat Aug 23 11:42:51 Merge file: Component J5 copied and renamed to J5000
+Sat Aug 23 11:42:51 Merge file: Component J6 copied and renamed to J6000
+Sat Aug 23 11:42:51 Merge file: Component J7 copied and renamed to J7000
+Sat Aug 23 11:42:51 Merge file: Component J8 copied and renamed to J8000
+Sat Aug 23 11:42:51 Merge file: Component LS1 copied and renamed to LS1000
+Sat Aug 23 11:42:51 Merge file: Component LS2 copied and renamed to LS2000
+Sat Aug 23 11:42:51 Merge file: Component LS3 copied and renamed to LS3000
+Sat Aug 23 11:42:51 Merge file: Component LS4 copied and renamed to LS4000
+Sat Aug 23 11:42:51 Merge file: Component Q3 copied and renamed to Q3000
+Sat Aug 23 11:42:51 Merge file: Component Q4 copied and renamed to Q4000
+Sat Aug 23 11:42:51 Merge file: Component Q5 copied and renamed to Q5000
+Sat Aug 23 11:42:51 Merge file: Component Q6 copied and renamed to Q6000
+Sat Aug 23 11:42:51 Merge file: Component R5 copied and renamed to R5000
+Sat Aug 23 11:42:51 Merge file: Component R11 copied and renamed to R11000
+Sat Aug 23 11:42:51 Merge file: Component R13 copied and renamed to R13000
+Sat Aug 23 11:42:51 Merge file: Component R14 copied and renamed to R14000
+Sat Aug 23 11:42:51 Merge file: Component R15 copied and renamed to R15000
+Sat Aug 23 11:42:51 Merge file: Component R16 copied and renamed to R16000
+Sat Aug 23 11:42:51 Merge file: Component R17 copied and renamed to R17000
+Sat Aug 23 11:42:51 Merge file: Component R18 copied and renamed to R18000
+Sat Aug 23 11:42:51 Merge file: Component R19 copied and renamed to R19000
+Sat Aug 23 11:42:51 Merge file: Component R20 copied and renamed to R20000
+Sat Aug 23 11:42:51 Merge file: Component R21 copied and renamed to R21000
+Sat Aug 23 11:42:51 Merge file: Component R22 copied and renamed to R22000
+Sat Aug 23 11:42:51 Merge file: Component R23 copied and renamed to R23000
+Sat Aug 23 11:42:51 Merge file: Component R33 copied and renamed to R33000
+Sat Aug 23 11:42:51 Merge file: Component SW1 copied and renamed to SW1000
+Sat Aug 23 11:42:51 Merge file: Component SW2 copied and renamed to SW2000
+Sat Aug 23 11:42:51 Merge file: Component SW3 copied and renamed to SW3000
+Sat Aug 23 11:42:51 Merge file: Component SW4 copied and renamed to SW4000
+Sat Aug 23 11:42:51 Merge file: Component U3 copied and renamed to U3000
+Sat Aug 23 11:42:51 Merge file: Component U4 copied and renamed to U4000
+Sat Aug 23 11:42:51 Merge file: Component U5 copied and renamed to U5000
+Sat Aug 23 11:42:51 Merge file: Component ~FV1 copied and renamed to ~FV1000
+Sat Aug 23 11:42:51 Merge file: Component ~FV2 copied and renamed to ~FV2000
+Sat Aug 23 11:42:51 Merge file: Component ~FV3 copied and renamed to ~FV3000
+Sat Aug 23 11:42:51 Merge file: Component ~FV4 copied and renamed to ~FV4000
+Sat Aug 23 11:42:51 Merge file: Net GND merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net I1 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net I2 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net I3 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net I4 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net INN1 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net INN2 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net INN3 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net INN4 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N05324 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N05389 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N05408 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N05546 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N05572 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N05987 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N06031 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N06113 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N06144 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N06509 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N09883 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N46584 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N46613 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N46655 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N46684 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N81405 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N81445 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N81485 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N81525 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N81544 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N093791 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N094011 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N094231 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net N094451 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net OUT1 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net OUT2 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net OUT3 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net OUT4 merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net VCC merged into existing net
+Sat Aug 23 11:42:51 Merge file: Net VCC_12V merged into existing net
+Sat Aug 23 11:42:51 Loaded file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\SCHEMATIC RF + CD4013\RF - CD4013.MAX
+Sat Aug 23 11:42:51 Merge file: Complete
+Sat Aug 23 11:43:09 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\SCHEMATIC RF + CD4013\RF - CD4013_COPY.MAX
+Sat Aug 23 11:45:22 Saved as file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\SCHEMATIC RF + CD4013\RF - CD4013_COPY.MAX
+Mon Sep 01 17:09:00 Saved as file BACKUP1.MAX
+Mon Sep 01 17:19:00 Saved as file BACKUP1.MAX
+Mon Sep 01 17:29:00 Saved as file BACKUP1.MAX
+Mon Sep 01 17:39:00 Saved as file BACKUP1.MAX
+Mon Sep 01 17:49:01 Saved as file BACKUP1.MAX
+Mon Sep 01 17:59:01 Saved as file BACKUP1.MAX
+Mon Sep 01 18:15:26 Saved as file BACKUP1.MAX
+Mon Sep 01 18:25:26 Saved as file BACKUP1.MAX
+Mon Sep 01 18:35:27 Saved as file BACKUP1.MAX
+Mon Sep 01 18:45:27 Saved as file BACKUP1.MAX
+Mon Sep 01 18:55:27 Saved as file BACKUP1.MAX
+Mon Sep 01 19:05:27 Saved as file BACKUP1.MAX
+Mon Sep 01 19:15:28 Saved as file BACKUP1.MAX
+Mon Sep 01 19:25:28 Saved as file BACKUP1.MAX
+Mon Sep 01 19:35:28 Saved as file BACKUP1.MAX
+Mon Sep 01 19:45:29 Saved as file BACKUP1.MAX
+Mon Sep 01 19:55:29 Saved as file BACKUP1.MAX
+Mon Sep 01 20:05:29 Saved as file BACKUP1.MAX
+Mon Sep 01 20:15:30 Saved as file BACKUP1.MAX
+Mon Sep 01 20:25:30 Saved as file BACKUP1.MAX
+Mon Sep 01 20:35:30 Saved as file BACKUP1.MAX
+Mon Sep 01 20:45:30 Saved as file BACKUP1.MAX
+Mon Sep 01 20:55:31 Saved as file BACKUP1.MAX
+Mon Sep 01 21:05:31 Saved as file BACKUP1.MAX
+Mon Sep 01 21:15:31 Saved as file BACKUP1.MAX
+Mon Sep 01 21:25:32 Saved as file BACKUP1.MAX
+Mon Sep 01 21:35:32 Saved as file BACKUP1.MAX
+Mon Sep 01 21:45:32 Saved as file BACKUP1.MAX
+Mon Sep 01 21:55:32 Saved as file BACKUP1.MAX
+Mon Sep 01 22:05:33 Saved as file BACKUP1.MAX
+Mon Sep 01 22:15:33 Saved as file BACKUP1.MAX
+Mon Sep 01 22:25:33 Saved as file BACKUP1.MAX
+Mon Sep 01 22:35:34 Saved as file BACKUP1.MAX
+Mon Sep 01 22:45:34 Saved as file BACKUP1.MAX
+Mon Sep 01 22:55:34 Saved as file BACKUP1.MAX
+Mon Sep 01 23:05:34 Saved as file BACKUP1.MAX
+Mon Sep 01 23:15:35 Saved as file BACKUP1.MAX
+Mon Sep 01 23:25:35 Saved as file BACKUP1.MAX
+Mon Sep 01 23:35:35 Saved as file BACKUP1.MAX
+Mon Sep 01 23:45:36 Saved as file BACKUP1.MAX
+Mon Sep 01 23:55:36 Saved as file BACKUP1.MAX
+Tue Sep 02 00:05:36 Saved as file BACKUP1.MAX
+Tue Sep 02 00:15:37 Saved as file BACKUP1.MAX
+Tue Sep 02 00:25:37 Saved as file BACKUP1.MAX
+Sun Dec 13 18:15:50 Saved as file E:\DROPBOX\DROPBOX\SHOP CHIPKOOL\MACH THU PHAT RF315\SCHEMATIC RF + CD4013\RF - CD4013.MAX
+Sat Mar 05 08:44:41 Saved as file BACKUP1.MAX
+Sat Mar 05 08:44:41 Saved as file C:\USERS\CHUNG\DESKTOP\DO AN\FULL - SCHEMATIC RF + CD4013\BACKUP1.MAX
+Sat Mar 05 08:44:41 UserDiv from Layout.INI for AutoECO: 60
+Sat Mar 05 08:44:41 Loaded file C:\USERS\CHUNG\DESKTOP\DO AN\FULL - SCHEMATIC RF + CD4013\BACKUP1.MAX
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON100T.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON156T.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BGA.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\CLCC.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON050T.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON085T.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050F.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050T.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIN.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100B.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100T.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT_HD.LLB
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ECON100T.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\FBUS.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ISA.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\JUMPER.LLB
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LAYOUT.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LCON100T.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PC104.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCI.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON100T.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON156T.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PGA.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PLCC.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUAD.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUADB.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RELAY.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RF.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SBUS.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050F.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050T.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100F.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100T.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIP.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SM.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOG.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOJ.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\STIFF.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TELE.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CAP_P.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CYLND.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DIODE.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DISC.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_RAD.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TRAINING.LLB
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\VRES.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\WCON100T.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\XT.llb
+Sat Mar 05 08:44:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ZIGZAG.llb
+Sat Mar 05 08:44:42 Saved as file C:\USERS\CHUNG\DESKTOP\DO AN\FULL - SCHEMATIC RF + CD4013\BACKUP1.MAX
+Sat Mar 05 08:44:43 Loaded file C:\USERS\CHUNG\DESKTOP\DO AN\FULL - SCHEMATIC RF + CD4013\BACKUP1.MAX
+Tue Mar 15 08:29:44 Saved as file BACKUP1.MAX
+Tue Mar 15 08:29:44 Saved as file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\BACKUP1.MAX
+Tue Mar 15 08:29:44 UserDiv from Layout.INI for AutoECO: 60
+Tue Mar 15 08:29:45 Loaded file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\BACKUP1.MAX
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON100T.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON156T.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BGA.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\CLCC.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON050T.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON085T.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050F.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050T.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIN.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100B.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100T.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT_HD.LLB
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ECON100T.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\FBUS.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ISA.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\JUMPER.LLB
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LAYOUT.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LCON100T.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PC104.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCI.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON100T.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON156T.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PGA.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PLCC.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUAD.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUADB.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RELAY.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RF.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SBUS.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050F.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050T.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100F.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100T.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIP.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SM.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOG.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOJ.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\STIFF.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TELE.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Tue Mar 15 08:29:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CAP_P.llb
+Tue Mar 15 08:29:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CYLND.llb
+Tue Mar 15 08:29:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DIODE.llb
+Tue Mar 15 08:29:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DISC.llb
+Tue Mar 15 08:29:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_RAD.llb
+Tue Mar 15 08:29:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Tue Mar 15 08:29:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TRAINING.LLB
+Tue Mar 15 08:29:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\VRES.llb
+Tue Mar 15 08:29:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\WCON100T.llb
+Tue Mar 15 08:29:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\XT.llb
+Tue Mar 15 08:29:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ZIGZAG.llb
+Tue Mar 15 08:29:46 Saved as file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\BACKUP1.MAX
+Tue Mar 15 08:29:48 Loaded file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\BACKUP1.MAX
+Tue Mar 15 08:29:53 Saved as file BACKUP1.MAX
+Tue Mar 15 08:29:53 Saved as file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\BACKUP1.MAX
+Tue Mar 15 08:29:54 UserDiv from Layout.INI for AutoECO: 60
+Tue Mar 15 08:29:54 Loaded file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\BACKUP1.MAX
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON100T.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON156T.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BGA.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\CLCC.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON050T.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON085T.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050F.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050T.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIN.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100B.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100T.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT_HD.LLB
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ECON100T.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\FBUS.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ISA.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\JUMPER.LLB
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LAYOUT.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LCON100T.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PC104.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCI.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON100T.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON156T.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PGA.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PLCC.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUAD.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUADB.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RELAY.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RF.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SBUS.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050F.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050T.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100F.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100T.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIP.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SM.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOG.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOJ.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\STIFF.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TELE.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CAP_P.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CYLND.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DIODE.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DISC.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_RAD.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TRAINING.LLB
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\VRES.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\WCON100T.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\XT.llb
+Tue Mar 15 08:29:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ZIGZAG.llb
+Tue Mar 15 08:29:55 Saved as file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\BACKUP1.MAX
+Tue Mar 15 08:29:57 Loaded file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\BACKUP1.MAX
+Tue Mar 15 08:30:48 Saved as file BACKUP1.MAX
+Tue Mar 15 08:30:48 Saved as file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\BACKUP1.MAX
+Tue Mar 15 08:30:48 UserDiv from Layout.INI for AutoECO: 60
+Tue Mar 15 08:30:48 Loaded file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\BACKUP1.MAX
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON100T.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON156T.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BGA.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\CLCC.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON050T.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON085T.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050F.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050T.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIN.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100B.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100T.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT_HD.LLB
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ECON100T.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\FBUS.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ISA.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\JUMPER.LLB
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LAYOUT.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LCON100T.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PC104.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCI.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON100T.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON156T.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PGA.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PLCC.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUAD.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUADB.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RELAY.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RF.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SBUS.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050F.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050T.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100F.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100T.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIP.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SM.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOG.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOJ.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\STIFF.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TELE.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CAP_P.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CYLND.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DIODE.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DISC.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_RAD.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Tue Mar 15 08:30:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TRAINING.LLB
+Tue Mar 15 08:30:49 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\VRES.llb
+Tue Mar 15 08:30:49 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\WCON100T.llb
+Tue Mar 15 08:30:49 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\XT.llb
+Tue Mar 15 08:30:49 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ZIGZAG.llb
+Tue Mar 15 08:30:49 Saved as file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\BACKUP1.MAX
+Tue Mar 15 08:30:50 Loaded file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\BACKUP1.MAX
+Wed Mar 16 14:43:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\BCON100T.LLB
+Wed Mar 16 14:43:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\BCON156T.LLB
+Wed Mar 16 14:43:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\BGA.LLB
+Wed Mar 16 14:43:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\CLCC.LLB
+Wed Mar 16 14:43:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\DCON050T.LLB
+Wed Mar 16 14:43:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\DCON085T.LLB
+Wed Mar 16 14:43:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\DIMM050F.LLB
+Wed Mar 16 14:43:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\DIMM050T.LLB
+Wed Mar 16 14:43:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\DIN.LLB
+Wed Mar 16 14:43:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\DIP100B.LLB
+Wed Mar 16 14:43:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\DIP100T.LLB
+Wed Mar 16 14:43:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\DSUBT.LLB
+Wed Mar 16 14:43:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\DSUBT_HD.LLB
+Wed Mar 16 14:43:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\ECON100T.LLB
+Wed Mar 16 14:43:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\EMPTY.LLB
+Wed Mar 16 14:43:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\EX_GUI.LLB
+Wed Mar 16 14:43:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\FBUS.LLB
+Wed Mar 16 14:43:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\ISA.LLB
+Wed Mar 16 14:43:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\JUMPER.LLB
+Wed Mar 16 14:43:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\LAYOUT.LLB
+Wed Mar 16 14:43:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\LCON100T.LLB
+Wed Mar 16 14:43:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\METRIC.LLB
+Wed Mar 16 14:43:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\PADSTACK.LLB
+Wed Mar 16 14:43:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\PC104.LLB
+Wed Mar 16 14:43:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\PCI.LLB
+Wed Mar 16 14:43:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\PCON100T.LLB
+Wed Mar 16 14:43:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\PCON156T.LLB
+Wed Mar 16 14:43:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\PGA.LLB
+Wed Mar 16 14:43:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\PLCC.LLB
+Wed Mar 16 14:43:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\QUAD.LLB
+Wed Mar 16 14:43:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\QUADB.LLB
+Wed Mar 16 14:43:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\RELAY.LLB
+Wed Mar 16 14:43:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\RF.LLB
+Wed Mar 16 14:43:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\SBUS.LLB
+Wed Mar 16 14:43:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\SIMM050F.LLB
+Wed Mar 16 14:43:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\SIMM050T.LLB
+Wed Mar 16 14:43:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\SIMM100F.LLB
+Wed Mar 16 14:43:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\SIMM100T.LLB
+Wed Mar 16 14:43:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\SIP.LLB
+Wed Mar 16 14:43:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\SM.LLB
+Wed Mar 16 14:43:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\SOG.LLB
+Wed Mar 16 14:43:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\SOJ.LLB
+Wed Mar 16 14:43:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\STIFF.LLB
+Wed Mar 16 14:43:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\TELE.LLB
+Wed Mar 16 14:43:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\TM_AXIAL.LLB
+Wed Mar 16 14:43:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\TM_CAP_P.LLB
+Wed Mar 16 14:43:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\TM_CYLND.LLB
+Wed Mar 16 14:43:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\TM_DIODE.LLB
+Wed Mar 16 14:43:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\TM_DISC.LLB
+Wed Mar 16 14:43:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\TM_RAD.LLB
+Wed Mar 16 14:43:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\TO.LLB
+Wed Mar 16 14:43:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\TRAINING.LLB
+Wed Mar 16 14:43:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\VRES.LLB
+Wed Mar 16 14:43:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\WCON100T.LLB
+Wed Mar 16 14:43:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\XT.LLB
+Wed Mar 16 14:43:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\ZIGZAG.LLB
+Sat Apr 09 13:17:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\BCON100T.LLB
+Sat Apr 09 13:17:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\BCON156T.LLB
+Sat Apr 09 13:17:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\BGA.LLB
+Sat Apr 09 13:17:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\CLCC.LLB
+Sat Apr 09 13:17:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\DCON050T.LLB
+Sat Apr 09 13:17:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\DCON085T.LLB
+Sat Apr 09 13:17:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\DIMM050F.LLB
+Sat Apr 09 13:17:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\DIMM050T.LLB
+Sat Apr 09 13:17:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\DIN.LLB
+Sat Apr 09 13:17:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\DIP100B.LLB
+Sat Apr 09 13:17:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\DIP100T.LLB
+Sat Apr 09 13:17:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\DSUBT.LLB
+Sat Apr 09 13:17:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\DSUBT_HD.LLB
+Sat Apr 09 13:17:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\ECON100T.LLB
+Sat Apr 09 13:17:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\EMPTY.LLB
+Sat Apr 09 13:17:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\EX_GUI.LLB
+Sat Apr 09 13:17:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\FBUS.LLB
+Sat Apr 09 13:17:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\ISA.LLB
+Sat Apr 09 13:17:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\JUMPER.LLB
+Sat Apr 09 13:17:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\LAYOUT.LLB
+Sat Apr 09 13:17:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\LCON100T.LLB
+Sat Apr 09 13:17:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\METRIC.LLB
+Sat Apr 09 13:17:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\PADSTACK.LLB
+Sat Apr 09 13:17:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\PC104.LLB
+Sat Apr 09 13:17:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\PCI.LLB
+Sat Apr 09 13:17:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\PCON100T.LLB
+Sat Apr 09 13:17:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\PCON156T.LLB
+Sat Apr 09 13:17:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\PGA.LLB
+Sat Apr 09 13:17:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\PLCC.LLB
+Sat Apr 09 13:17:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\QUAD.LLB
+Sat Apr 09 13:17:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\QUADB.LLB
+Sat Apr 09 13:17:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\RELAY.LLB
+Sat Apr 09 13:17:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\RF.LLB
+Sat Apr 09 13:17:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\SBUS.LLB
+Sat Apr 09 13:17:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\SIMM050F.LLB
+Sat Apr 09 13:17:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\SIMM050T.LLB
+Sat Apr 09 13:17:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\SIMM100F.LLB
+Sat Apr 09 13:17:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\SIMM100T.LLB
+Sat Apr 09 13:17:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\SIP.LLB
+Sat Apr 09 13:17:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\SM.LLB
+Sat Apr 09 13:17:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\SOG.LLB
+Sat Apr 09 13:17:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\SOJ.LLB
+Sat Apr 09 13:17:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\STIFF.LLB
+Sat Apr 09 13:17:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\TELE.LLB
+Sat Apr 09 13:17:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\TM_AXIAL.LLB
+Sat Apr 09 13:17:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\TM_CAP_P.LLB
+Sat Apr 09 13:17:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\TM_CYLND.LLB
+Sat Apr 09 13:17:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\TM_DIODE.LLB
+Sat Apr 09 13:17:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\TM_DISC.LLB
+Sat Apr 09 13:17:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\TM_RAD.LLB
+Sat Apr 09 13:17:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\TO.LLB
+Sat Apr 09 13:17:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\TRAINING.LLB
+Sat Apr 09 13:17:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\VRES.LLB
+Sat Apr 09 13:17:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\WCON100T.LLB
+Sat Apr 09 13:17:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\XT.LLB
+Sat Apr 09 13:17:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\ZIGZAG.LLB
+Mon Apr 18 22:31:33 Saved as file BACKUP1.MAX
+Mon Apr 18 22:31:33 Saved as file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\SWEEP3.MAX
+Mon Apr 18 22:31:34 UserDiv from Layout.INI for AutoECO: 60
+Mon Apr 18 22:31:34 Loaded file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\SWEEP3.MAX
+Mon Apr 18 22:31:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON100T.llb
+Mon Apr 18 22:31:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON156T.llb
+Mon Apr 18 22:31:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BGA.llb
+Mon Apr 18 22:31:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\CLCC.llb
+Mon Apr 18 22:31:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON050T.llb
+Mon Apr 18 22:31:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON085T.llb
+Mon Apr 18 22:31:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050F.llb
+Mon Apr 18 22:31:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050T.llb
+Mon Apr 18 22:31:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIN.llb
+Mon Apr 18 22:31:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100B.llb
+Mon Apr 18 22:31:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100T.llb
+Mon Apr 18 22:31:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT.llb
+Mon Apr 18 22:31:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT_HD.LLB
+Mon Apr 18 22:31:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ECON100T.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\FBUS.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ISA.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\JUMPER.LLB
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LAYOUT.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LCON100T.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PC104.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCI.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON100T.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON156T.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PGA.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PLCC.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUAD.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUADB.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RELAY.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RF.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SBUS.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050F.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050T.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100F.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100T.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIP.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SM.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOG.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOJ.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\STIFF.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TELE.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CAP_P.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CYLND.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DIODE.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DISC.llb
+Mon Apr 18 22:31:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_RAD.llb
+Mon Apr 18 22:31:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Mon Apr 18 22:31:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TRAINING.LLB
+Mon Apr 18 22:31:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\VRES.llb
+Mon Apr 18 22:31:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\WCON100T.llb
+Mon Apr 18 22:31:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\XT.llb
+Mon Apr 18 22:31:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ZIGZAG.llb
+Mon Apr 18 22:31:36 Saved as file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\SWEEP3.MAX
+Mon Apr 18 22:31:37 Loaded file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\SWEEP3.MAX
+Mon Apr 18 22:31:40 Saved as file BACKUP1.MAX
+Mon Apr 18 22:31:40 Saved as file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\SWEEP3.MAX
+Mon Apr 18 22:31:41 UserDiv from Layout.INI for AutoECO: 60
+Mon Apr 18 22:31:41 Loaded file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\SWEEP3.MAX
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON100T.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON156T.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BGA.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\CLCC.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON050T.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON085T.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050F.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050T.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIN.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100B.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100T.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT_HD.LLB
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ECON100T.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\FBUS.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ISA.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\JUMPER.LLB
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LAYOUT.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LCON100T.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PC104.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCI.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON100T.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON156T.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PGA.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PLCC.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUAD.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUADB.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RELAY.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RF.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SBUS.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050F.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050T.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100F.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100T.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIP.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SM.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOG.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOJ.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\STIFF.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TELE.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CAP_P.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CYLND.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DIODE.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DISC.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_RAD.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TRAINING.LLB
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\VRES.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\WCON100T.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\XT.llb
+Mon Apr 18 22:31:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ZIGZAG.llb
+Mon Apr 18 22:31:42 Saved as file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\SWEEP3.MAX
+Mon Apr 18 22:31:43 Loaded file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\SWEEP3.MAX
+Mon Apr 18 22:32:12 Saved as file BACKUP1.MAX
+Mon Apr 18 22:32:12 Saved as file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\BACKUP1.MAX
+Mon Apr 18 22:32:12 UserDiv from Layout.INI for AutoECO: 60
+Mon Apr 18 22:32:12 Loaded file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\BACKUP1.MAX
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON100T.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON156T.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BGA.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\CLCC.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON050T.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON085T.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050F.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050T.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIN.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100B.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100T.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT_HD.LLB
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ECON100T.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\FBUS.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ISA.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\JUMPER.LLB
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LAYOUT.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LCON100T.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PC104.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCI.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON100T.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON156T.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PGA.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PLCC.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUAD.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUADB.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RELAY.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RF.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SBUS.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050F.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050T.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100F.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100T.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIP.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SM.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOG.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOJ.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\STIFF.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TELE.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CAP_P.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CYLND.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DIODE.llb
+Mon Apr 18 22:32:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DISC.llb
+Mon Apr 18 22:32:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_RAD.llb
+Mon Apr 18 22:32:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Mon Apr 18 22:32:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TRAINING.LLB
+Mon Apr 18 22:32:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\VRES.llb
+Mon Apr 18 22:32:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\WCON100T.llb
+Mon Apr 18 22:32:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\XT.llb
+Mon Apr 18 22:32:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ZIGZAG.llb
+Mon Apr 18 22:32:13 Saved as file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\BACKUP1.MAX
+Mon Apr 18 22:32:14 Loaded file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\BACKUP1.MAX
+Wed Apr 20 09:31:41 Saved as file BACKUP1.MAX
+Wed Apr 20 09:31:41 Saved as file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\BACKUP3.MAX
+Wed Apr 20 09:31:42 UserDiv from Layout.INI for AutoECO: 60
+Wed Apr 20 09:31:42 Loaded file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\BACKUP3.MAX
+Wed Apr 20 09:31:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON100T.llb
+Wed Apr 20 09:31:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON156T.llb
+Wed Apr 20 09:31:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BGA.llb
+Wed Apr 20 09:31:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\CLCC.llb
+Wed Apr 20 09:31:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON050T.llb
+Wed Apr 20 09:31:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON085T.llb
+Wed Apr 20 09:31:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050F.llb
+Wed Apr 20 09:31:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050T.llb
+Wed Apr 20 09:31:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIN.llb
+Wed Apr 20 09:31:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100B.llb
+Wed Apr 20 09:31:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100T.llb
+Wed Apr 20 09:31:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT.llb
+Wed Apr 20 09:31:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT_HD.LLB
+Wed Apr 20 09:31:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ECON100T.llb
+Wed Apr 20 09:31:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\FBUS.llb
+Wed Apr 20 09:31:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ISA.llb
+Wed Apr 20 09:31:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\JUMPER.LLB
+Wed Apr 20 09:31:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LAYOUT.llb
+Wed Apr 20 09:31:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LCON100T.llb
+Wed Apr 20 09:31:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PC104.llb
+Wed Apr 20 09:31:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCI.llb
+Wed Apr 20 09:31:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON100T.llb
+Wed Apr 20 09:31:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON156T.llb
+Wed Apr 20 09:31:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PGA.llb
+Wed Apr 20 09:31:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PLCC.llb
+Wed Apr 20 09:31:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUAD.llb
+Wed Apr 20 09:31:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUADB.llb
+Wed Apr 20 09:31:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RELAY.llb
+Wed Apr 20 09:31:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RF.llb
+Wed Apr 20 09:31:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SBUS.llb
+Wed Apr 20 09:31:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050F.llb
+Wed Apr 20 09:31:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050T.llb
+Wed Apr 20 09:31:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100F.llb
+Wed Apr 20 09:31:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100T.llb
+Wed Apr 20 09:31:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIP.llb
+Wed Apr 20 09:31:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SM.llb
+Wed Apr 20 09:31:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOG.llb
+Wed Apr 20 09:31:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOJ.llb
+Wed Apr 20 09:31:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\STIFF.llb
+Wed Apr 20 09:31:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TELE.llb
+Wed Apr 20 09:31:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Wed Apr 20 09:31:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CAP_P.llb
+Wed Apr 20 09:31:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CYLND.llb
+Wed Apr 20 09:31:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DIODE.llb
+Wed Apr 20 09:31:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DISC.llb
+Wed Apr 20 09:31:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_RAD.llb
+Wed Apr 20 09:31:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Wed Apr 20 09:31:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TRAINING.LLB
+Wed Apr 20 09:31:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\VRES.llb
+Wed Apr 20 09:31:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\WCON100T.llb
+Wed Apr 20 09:31:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\XT.llb
+Wed Apr 20 09:31:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ZIGZAG.llb
+Wed Apr 20 09:31:45 Saved as file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\BACKUP3.MAX
+Wed Apr 20 09:31:47 Loaded file C:\USERS\CHUNG\DESKTOP\DO AN\MO PHONG\BACKUP3.MAX

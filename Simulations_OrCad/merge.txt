@@ -1,0 +1,105 @@
+Starting (copy all comps)
+Loading merge file E:\SHOP CHIPKOOL\MACH THU PHAT RF315\SCHEMATIC RF + CD4013\RF - CD4013.MAX
+Component C4 copied and renamed to C4000
+Component C7 copied and renamed to C7000
+Component C8 copied and renamed to C8000
+Component C9 copied and renamed to C9000
+Component C10 copied and renamed to C10000
+Component C16 copied and renamed to C16000
+Component C17 copied and renamed to C17000
+Component C18 copied and renamed to C18000
+Component C19 copied and renamed to C19000
+Component D4 copied and renamed to D4000
+Component D5 copied and renamed to D5000
+Component D6 copied and renamed to D6000
+Component D7 copied and renamed to D7000
+Component D8 copied and renamed to D8000
+Component D9 copied and renamed to D9000
+Component D10 copied and renamed to D10000
+Component D11 copied and renamed to D11000
+Component D12 copied and renamed to D12000
+Component D13 copied and renamed to D13000
+Component D14 copied and renamed to D14000
+Component D15 copied and renamed to D15000
+Component D32 copied and renamed to D32000
+Component D33 copied and renamed to D33000
+Component J2 copied and renamed to J2000
+Component J3 copied and renamed to J3000
+Component J4 copied and renamed to J4000
+Component J5 copied and renamed to J5000
+Component J6 copied and renamed to J6000
+Component J7 copied and renamed to J7000
+Component J8 copied and renamed to J8000
+Component LS1 copied and renamed to LS1000
+Component LS2 copied and renamed to LS2000
+Component LS3 copied and renamed to LS3000
+Component LS4 copied and renamed to LS4000
+Component Q3 copied and renamed to Q3000
+Component Q4 copied and renamed to Q4000
+Component Q5 copied and renamed to Q5000
+Component Q6 copied and renamed to Q6000
+Component R5 copied and renamed to R5000
+Component R11 copied and renamed to R11000
+Component R13 copied and renamed to R13000
+Component R14 copied and renamed to R14000
+Component R15 copied and renamed to R15000
+Component R16 copied and renamed to R16000
+Component R17 copied and renamed to R17000
+Component R18 copied and renamed to R18000
+Component R19 copied and renamed to R19000
+Component R20 copied and renamed to R20000
+Component R21 copied and renamed to R21000
+Component R22 copied and renamed to R22000
+Component R23 copied and renamed to R23000
+Component R33 copied and renamed to R33000
+Component SW1 copied and renamed to SW1000
+Component SW2 copied and renamed to SW2000
+Component SW3 copied and renamed to SW3000
+Component SW4 copied and renamed to SW4000
+Component U3 copied and renamed to U3000
+Component U4 copied and renamed to U4000
+Component U5 copied and renamed to U5000
+Component ~FV1 copied and renamed to ~FV1000
+Component ~FV2 copied and renamed to ~FV2000
+Component ~FV3 copied and renamed to ~FV3000
+Component ~FV4 copied and renamed to ~FV4000
+Net GND merged into existing net
+Net I1 merged into existing net
+Net I2 merged into existing net
+Net I3 merged into existing net
+Net I4 merged into existing net
+Net INN1 merged into existing net
+Net INN2 merged into existing net
+Net INN3 merged into existing net
+Net INN4 merged into existing net
+Net N05324 merged into existing net
+Net N05389 merged into existing net
+Net N05408 merged into existing net
+Net N05546 merged into existing net
+Net N05572 merged into existing net
+Net N05987 merged into existing net
+Net N06031 merged into existing net
+Net N06113 merged into existing net
+Net N06144 merged into existing net
+Net N06509 merged into existing net
+Net N09883 merged into existing net
+Net N46584 merged into existing net
+Net N46613 merged into existing net
+Net N46655 merged into existing net
+Net N46684 merged into existing net
+Net N81405 merged into existing net
+Net N81445 merged into existing net
+Net N81485 merged into existing net
+Net N81525 merged into existing net
+Net N81544 merged into existing net
+Net N093791 merged into existing net
+Net N094011 merged into existing net
+Net N094231 merged into existing net
+Net N094451 merged into existing net
+Net OUT1 merged into existing net
+Net OUT2 merged into existing net
+Net OUT3 merged into existing net
+Net OUT4 merged into existing net
+Net VCC merged into existing net
+Net VCC_12V merged into existing net
+Complete
